@@ -1,6 +1,6 @@
 #include <iostream>
 #include <set>
-using namespace std;
+using namespace std;        
 int main()
 {
     set<float> st;

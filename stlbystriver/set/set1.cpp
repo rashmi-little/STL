@@ -11,7 +11,7 @@ int main()
     for(int i=0;i<count;i++)
     {
         int val;
-        cin>>val;
+        cin>>val; 
         st.insert(val);
     }
     // for(int x:st)
