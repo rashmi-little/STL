@@ -5,6 +5,6 @@
 using namespace std;
 int main()
 {
-    vector<int> temp={1,1,1,2,2,2,3,5,3,23,11};
-    cout<<count(temp.begin(),temp.end(),1);
+     vector<int> temp={1,1,1,2,2,2,3,5,3,23,11};
+    cout<<count(temp.begin(),temp.end(),1); 
 }
